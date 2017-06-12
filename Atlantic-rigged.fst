@@ -1,6 +1,6 @@
 name = Atlantic-rigged
 type = body+head
-scale = 10
+scale = 1
 filename = Atlantic-rigged/Atlantic-rigged.fbx
 texdir = Atlantic-rigged/textures
 joint = jointHead = Head
